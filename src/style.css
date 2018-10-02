@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'NewsGothicRoman';
+    src: url('./newsgothicbt-roman.woff2') format('woff2'),
+         url('./newsgothicbt-roman.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'NewsGothicRoman';
+    background: url('./icon.svg');
+}
